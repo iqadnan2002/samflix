@@ -15,7 +15,12 @@ SAMFLIX is a high-performance, beautiful media streaming application built speci
 🛡️ Smart Path Resolution: Intelligently bypasses Android 11+ Scoped Storage restrictions for reliable file management.
 
 📸 Screenshots
-(Add your screenshots here by dragging and dropping them into the GitHub web editor later!)
+<img width="576" height="1280" alt="photo_2026-10-11_22-23-36" src="https://github.com/user-attachments/assets/4caa136b-208d-4cd4-94e1-ebe2624e04f0" />
+<img width="576" height="1280" alt="photo_2026-10-11_22-23-35" src="https://github.com/user-attachments/assets/b8004e23-ea2e-467f-ad3e-d2ccbc62e697" />
+<img width="1280" height="576" alt="photo_2026-10-11_22-23-35 (5)" src="https://github.com/user-attachments/assets/d63ce224-e8b1-4765-a011-3360bc7e054b" />
+<img width="1280" height="576" alt="photo_2026-10-11_22-23-35 (4)" src="https://github.com/user-attachments/assets/3ec42f75-2bd3-475d-b9ec-0641d05823e7" />
+<img width="576" height="1280" alt="photo_2026-10-11_22-23-35 (3)" src="https://github.com/user-attachments/assets/3f5d2a71-933b-4517-b69d-13ac3f4c6a18" />
+<img width="576" height="1280" alt="photo_2026-10-11_22-23-35 (2)" src="https://github.com/user-attachments/assets/3c715d64-c1a5-4013-beec-93e607c9d658" />
 
 📦 Installation & Download
 Don't want to compile it yourself? Download the latest fully-built APK from the Releases page:
