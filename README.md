@@ -23,6 +23,9 @@ SAMFLIX is a high-performance, beautiful media streaming application built speci
 <img width="220" alt="photo_2026-10-11_22-23-35 (3)" src="https://github.com/user-attachments/assets/3f5d2a71-933b-4517-b69d-13ac3f4c6a18" />
 <img width="220" alt="photo_2026-10-11_22-23-35 (2)" src="https://github.com/user-attachments/assets/3c715d64-c1a5-4013-beec-93e607c9d658" />
 
+
+
+
 📦 Installation & Download
 Don't want to compile it yourself? Download the latest fully-built APK from the Releases page:
 👉 Download SAMFLIX v1.0.0 APK
