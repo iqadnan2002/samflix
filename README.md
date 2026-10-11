@@ -15,6 +15,7 @@ SAMFLIX is a high-performance, beautiful media streaming application built speci
 🛡️ Smart Path Resolution: Intelligently bypasses Android 11+ Scoped Storage restrictions for reliable file management.
 
 📸 Screenshots
+
 <img width="220" alt="photo_2026-10-11_22-23-36" src="https://github.com/user-attachments/assets/4caa136b-208d-4cd4-94e1-ebe2624e04f0" />
 <img width="220" alt="photo_2026-10-11_22-23-35" src="https://github.com/user-attachments/assets/b8004e23-ea2e-467f-ad3e-d2ccbc62e697" />
 <img height="220" alt="photo_2026-10-11_22-23-35 (5)" src="https://github.com/user-attachments/assets/d63ce224-e8b1-4765-a011-3360bc7e054b" />
