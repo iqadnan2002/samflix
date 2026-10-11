@@ -44,8 +44,8 @@ Download Manager: flutter_downloader
 
 Metadata API: TMDB (The Movie Database)
 
-🤝 Contributing
+🤝 Contributing\
 Contributions, issues, and feature requests are always welcome! Feel free to check the issues page. If you want to tackle the offline player feature for Version 2.0, pull requests are highly encouraged.
 
-⭐️ Show your support
+⭐️ Show your support\
 Give a ⭐️ if this project helped you learn about Flutter media players or BDIX integration!
